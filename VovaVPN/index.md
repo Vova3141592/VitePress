@@ -112,4 +112,4 @@ features:
 
 ### Подключайтесь!
 
-[Компьютер](/computer/hiddify), [IPhone](/iphone/streisand), [Andoid](/android/hiddify).
+[Компьютер](/computer/hiddify), [IPhone](/iphone/streisand), [Android](/android/hiddify).
