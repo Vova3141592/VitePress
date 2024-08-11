@@ -1,0 +1,18 @@
+:root {
+    --vp-home-hero-name-color: transparent;
+
+    /*
+    --vp-home-hero-name-background: linear-gradient(
+        to left,
+        lch(71.8% 42.7 240), lch(71.8% 42.7 220), lch(71.8% 42.7 200), lch(71.8% 42.7 180), lch(71.8% 42.7 160), lch(71.8% 42.7 140), lch(71.8% 42.7 120), lch(71.8% 42.7 100), lch(71.8% 42.7 80), lch(71.8% 42.7 60), lch(71.8% 42.7 40), lch(71.8% 42.7 20), lch(71.8% 42.7 0)
+        );
+    */
+    
+
+    --vp-home-hero-name-background: linear-gradient(
+        70deg,
+        rgb(106 106 255), rgb(188 90 188), rgb(240 110 110), rgb(233 233 0), rgb(106 255 106), rgb(0 233 233), rgb(106 106 255)
+        );
+        
+    
+}
