@@ -32,7 +32,7 @@ export default defineConfig({
       {
         text: 'Для IPhone',
         items: [
-          { text: 'Straisand', link: '/iphone/streisand'}
+          { text: 'Streisand', link: '/iphone/streisand'}
         ]
       },
       {
