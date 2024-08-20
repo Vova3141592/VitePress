@@ -13,7 +13,7 @@ title: Hiddify
 Чтобы подключиться, нужна программа. Для компьютера есть 2 программы:
 
 - [Hiddify](/computer/hiddify#hiddify) — простая, но иногда вылетает.
-- [NekoRay](/computer/nekoray.md) — посложнее, зато можно настроить всё под себя, не вылетает.
+- [NekoRay](/computer/nekoray) — посложнее, зато можно настроить всё под себя, не вылетает.
 
 Для простоты давайте подключимся через Hiddify.
 
@@ -83,4 +83,4 @@ title: Hiddify
 
 Если хотите подробнее настроить правила маршрутизации, например, чтобы трафик до vk.com шёл напрямую, используйте [NekoRay](/computer/nekoray).
 
-Ещё настройте VPN на смартфоне: [IPhone](/iphone/streisand.md), [Android](/android/hiddify.md).
+Ещё настройте VPN на смартфоне: [IPhone](/iphone/streisand), [Android](/android/v2rayng).

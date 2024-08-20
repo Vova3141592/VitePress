@@ -16,7 +16,7 @@ export default defineConfig({
         items: [
           { text: 'Для компьютера', link: '/computer/hiddify' },
           { text: 'Для IPhone', link: '/iphone/streisand' },
-          { text: 'Для Android', link: '/android/hiddify' }
+          { text: 'Для Android', link: '/android/v2rayng' }
         ]
       }
     ],
@@ -38,7 +38,7 @@ export default defineConfig({
       {
         text: 'Для Android',
         items: [
-          { text: 'Hiddify', link: '/android/hiddify'}
+          { text: 'v2rayNG', link: '/android/v2rayng'}
         ]
       }
     ],
